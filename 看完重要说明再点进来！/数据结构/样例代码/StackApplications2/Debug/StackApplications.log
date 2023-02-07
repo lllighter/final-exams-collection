@@ -1,0 +1,8 @@
+﻿  arrayStack.cpp
+  conversion.cpp
+E:\Study\course\数据结构\yzm\StackApplications2\conversion.cpp(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\course\数据结构\yzm\StackApplications2\conversion.cpp(32,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  linkedStack.cpp
+E:\Study\course\数据结构\yzm\StackApplications2\linkedStack.h(10,2): warning C4091: “typedef ”: 没有声明变量时忽略“stack”的左侧
+  正在生成代码...
+  StackApplications.vcxproj -> E:\Study\course\数据结构\yzm\StackApplications2\Debug\StackApplications.exe
