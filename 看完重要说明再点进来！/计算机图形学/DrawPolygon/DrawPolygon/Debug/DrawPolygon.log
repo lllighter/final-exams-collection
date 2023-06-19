@@ -1,0 +1,22 @@
+﻿生成启动时间为 2021/4/20 14:48:33。
+     1>项目“E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\DrawPolygon\DrawPolygon.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Polygon.cpp
+         Polygon.cpp
+         Note: including lib: glut32.lib
+         
+     1>e:\教学\2020-2021-2\cg19\实验\project2 多边形扫描转换实验\drawpolygon\drawpolygon\polygon.h(13): warning C4091: “typedef ”: 没有声明变量时忽略“EdgeNode”的左侧
+         main.cpp
+         Note: including lib: glut32.lib
+         
+     1>e:\教学\2020-2021-2\cg19\实验\project2 多边形扫描转换实验\drawpolygon\drawpolygon\polygon.h(13): warning C4091: “typedef ”: 没有声明变量时忽略“EdgeNode”的左侧
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\Debug\DrawPolygon.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\Debug\DrawPolygon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\Debug\DrawPolygon.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Polygon.obj
+         DrawPolygon.vcxproj -> E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\Debug\DrawPolygon.exe
+     1>已完成生成项目“E:\教学\2020-2021-2\CG19\实验\Project2 多边形扫描转换实验\DrawPolygon\DrawPolygon\DrawPolygon.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.41

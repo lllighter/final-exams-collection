@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GlutClipLines", "GlutClipLines\GlutClipLines.vcxproj", "{D3AEBEC4-AFAF-44F7-9254-99973D5AC9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AEBEC4-AFAF-44F7-9254-99973D5AC9B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3AEBEC4-AFAF-44F7-9254-99973D5AC9B8}.Debug|Win32.Build.0 = Debug|Win32
+		{D3AEBEC4-AFAF-44F7-9254-99973D5AC9B8}.Release|Win32.ActiveCfg = Release|Win32
+		{D3AEBEC4-AFAF-44F7-9254-99973D5AC9B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
