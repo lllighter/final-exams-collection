@@ -1,0 +1,2443 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="《中国近代史》第一章.files/filelist.xml">
+<title>《中国近代史》第一章</title>
+<link rel=themeData href="《中国近代史》第一章.files/themedata.thmx">
+<link rel=colorSchemeMapping href="《中国近代史》第一章.files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>150</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="267">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="99" Name="No List"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:18.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>《中国近代史》第一章</span></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>一、单项选择题</span></b><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>1</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>中国封建社会的基本生产结构是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、手工业</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、商业经济</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、工业</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小农经济</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>2</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>中国封建社会政治的基本特征是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、高度中央集权的封建君主专制</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、族权和政权相结合</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、国家统一和各民族经济文化紧密联系</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、结构稳定、延续，发展缓慢、迟滞</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>3</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>中国近代社会的起点标志是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif";color:red'>(&nbsp;&nbsp;&nbsp;
+)</span><span lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>鸦片战争</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、第二次鸦片战争</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、太平天国运动</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、甲午战争</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>4</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代操纵了中国政治、经济命脉，日益成为支配中国的决定性力量的是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、封建阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、无产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资本</span><span lang=EN-US style='mso-bidi-font-size:9.0pt'>—</span><span
+style='mso-bidi-font-size:9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>帝国主义</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>5</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国成为奴役人民的社会基础和统治支柱的是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、封建阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资本</span><span lang=EN-US style='mso-bidi-font-size:9.0pt'>—</span><span
+style='mso-bidi-font-size:9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>帝国主义</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>6</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国人数最多的被剥削阶级是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、农民阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、工人阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、无产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>7</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国产生的新的被压迫阶级是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、农民阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、工人阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、民族资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>8</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国最主要的矛盾是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、帝国主义和中华民族的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、地主阶级和农民阶级的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级和无产阶级的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、封建主义和人民大众的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>9</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>我国与列强签订的第一个不平等条约是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《北京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《马关条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《中法新约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>《南京条约》</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>10</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>近代中国，中国人民第一次大规模的反侵略武装斗争是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、太平天国起义</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>三元里人民抗英</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、虎门战役</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、吴淞口战役</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>11</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>列强未能瓜分中国的根本原因在于</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、列强之间的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、中国的实力</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、中华民族不屈不挠的反侵略斗争</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、义和团运动</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>12</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>以下哪个人物是中国近代睁眼看世界的第一人</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、林则徐</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、魏源</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、郑观应</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、康有为</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>13</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>提出同西方国家进行商战，设立议院思想的人是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、王韬</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、薛福成</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>郑观应</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、马建忠</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>14</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>较早通过翻译西方著作向国人介绍西方社会进化论的学者是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、康有为</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、梁启超</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、孙中山</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、严复</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>15</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>提出</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>“</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>振兴中华</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>口号的是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、康有为</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、严复</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、孙中山</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、梁启超</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>16</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>鸦片战争给中国带来的最大变化是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、主权不完整</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、领土被割占</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、开始转变为半殖民地半封建的社会形态</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小农经济开始瓦解</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>17</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>标志着以慈禧太后为首的清政府彻底放弃抵抗外国侵略者的事件是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《南京条约》的签订</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《天津条约》的签订</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《北京条约》的签订</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>D</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、《辛丑条约》的签订</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>18</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>在下列不平等条件中，含有强迫清政府把台湾割让给日本这一内容的是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif";color:red'>(</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《南京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《辛丑条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>《马关条约》</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《北京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>19</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>清政府在鸦片战争中失败的根本原因是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、清朝军备落后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、清政府闭关锁国政策</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、道光帝犹豫不决</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、清朝封建制度的腐朽</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>20</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>下列哪一个条约并非第一次鸦片战争后签定的</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>?(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《南京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《望厦条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>《北京条约》</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《黄埔条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>21</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>西方列强侵略中国的目的是要把中国变成自己的</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、商品市场</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、原料产地</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、劳动力市场</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、殖民地</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>22</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>中国工人阶级的产生</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>先于中国资产阶级</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、晚于中国资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、同时于中国资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、几乎同时于中国资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>23</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>中国民族资产阶级对外国资本主义和本国封建主义</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、是完全对立、坚决反对的</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、是完全依赖、坚决追随的</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、既有矛盾、斗争的一面，又有依赖、妥协的一面</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、只反对本国封建主义，不反对外国资本主义</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>25</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国人民斗争的主要出发点是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、反对贪官污吏</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、发展资本主义</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、挽救中华民族的危亡</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、争取民主</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>26</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>割占我国九龙半岛南端的不平等条约是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《南京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>《北京条约》</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《瑷珲条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《马关条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>27</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>从中国攫取了一百多万平方公里的土地，在第二次鸦片战争中获利最大的国家是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、英国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、法国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、俄国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、日本</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>28</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span lang=EN-US style='font-family:"Verdana","sans-serif";
+color:red'>1898</span><span style='font-family:宋体;mso-ascii-font-family:Verdana;
+mso-hansi-font-family:Verdana;color:red'>年把我国山东划为其势力范围的帝国主义国家是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、英国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、法国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>德国</span></span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、俄国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>29</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>把<span style='color:red'>长江流域划分为其势力范围的帝国主义国家是</span></span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>英国</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、法国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、德国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、俄国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>30</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>把两广、云南划分为其势力范围的帝国主义国家是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、英国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>法国</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、德国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、俄国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>31</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>把<span style='color:red'>福建划分为其势力范围的帝国主义国家是</span></span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、英国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、法国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、德国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>日本</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>32</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>把<span style='color:red'>长城以北划分为其</span>势力范围的帝国主义国家是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、英国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、法国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、德国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>俄国</span></span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>33</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>第一次火烧圆明园的侵略军是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、鸦片战争时的英军</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、第二次鸦片战争时的英法联军</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、甲午战争时的日军</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、八国联军</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>34</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>掌握中国海关大权达</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif";color:red'>40</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;
+color:red'>余年的英国人</span><span style='font-family:宋体;mso-ascii-font-family:Verdana;
+mso-hansi-font-family:Verdana'>是</span><span lang=EN-US style='font-family:
+"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、普鲁斯</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>赫德</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、金登干</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、李提摩太</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>35</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>在<span style='color:red'>中法战争期间指挥清军取得镇南关大捷的爱国将领</span>是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、关天培</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、陈化成</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>冯子材</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、邓世昌</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>36</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>在甲午战争中英勇殉国的爱国将领是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、关天培</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、陈化成</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、邓世昌</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、冯子材</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>37</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国社会的性质是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、封建社会</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、半殖民地半封建社会</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、半资本主义社会</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资本主义社会</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>38</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span lang=EN-US style='font-family:"Verdana","sans-serif"'>“</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>师夷长技以制夷</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>的主张出自哪一篇著作？</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《四洲志》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《海国图志》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《夷情备采》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《筹海篇》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>39</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>哪一次战争后中华民族面临生死存亡关头，中国人开始普遍有了民族意识的觉醒？</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、鸦片战争后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、第二次鸦片战争后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、甲午战争后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、八国联军战争后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>40</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代以来中国反侵略战争失败的最根本原因在于</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、帝国主义的强大</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、经济技术的落后</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、社会制度的腐败</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、中国军队军事素质差</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>C</span></p>
+
+<p class=MsoNormal><b><span style='mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>二、多项选择题</span></b><span
+lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>1</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>在近代中国，<span style='color:red'>旧的封建统治阶级即地主阶级发生了某些变化，逐渐出现了</span></span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>官僚地主</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>城居地主</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>资本家</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>2</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国的农民由于土地兼并加剧，失去土地的自耕农转化为</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、贫农</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、工人</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、买办</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资本家</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>3</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>中国工人阶级的来源是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、农民</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、手工业者</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、城市贫民</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>4</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>中国资产阶级的来源是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、买办</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、商人</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、地主</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、官僚</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>5</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>中国资产阶级的构成比较复杂</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>，主要分为</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>官僚买办资本家</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、小资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>民族资产阶级</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、大资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>6</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>近代中国占支配地位的主要社会矛盾是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>帝国主义和中华民族的矛盾</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、地主阶级和农民阶级的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级和无产阶级的矛盾</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>封建主义和人民大众的矛盾</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>7</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国的历史任务是</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、民族独立</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、人民解放</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、国家富强</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、人民富裕</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>8</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>资本</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>—</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>帝国主义通过什么手段对中国进行侵略</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、军事侵略</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、政治控制</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、经济掠夺</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、文化渗透</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>9</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代以来，列强对中国军事侵略的主要表现为</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>发动侵略战争，屠杀中国人民</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>侵占领土，划分势力范围</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>勒索赔款，抢夺财富</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、控制中国内政、外交</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>10</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国，列强对华政治控制的手段包括</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、划分势力范围，侵占领土</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>控制中国的内政外交</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>C</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、镇压中国人民的反抗</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>D</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、扶植、收买代理人</span><span lang=EN-US style='color:
+red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>11</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国，列强对华经济掠夺的主要手段是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、控制中国通商口岸</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、剥夺中国的关税自主权</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、实行商品倾销和资本输出</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、操纵中国的经济命脉</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>12</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国，列强对华文化渗透主要表现在</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、披着宗教外衣，进行侵略活动</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、为侵略中国制造舆论</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、实行商品倾销和资本输出</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、控制中国的内政外交</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>13</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代<span style='color:red'>中国反侵略战争失败的主要原因</span>是</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、中国当时的实力弱</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>社会制度的腐败</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、帝国主义过于强大</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>经济技术落后</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>14</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>鸦片战争后新产生的阶级有</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、工人阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、资产阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、农民阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、地主阶级</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>15</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代以来，许多知识分子提出一些救国的新思想，试图唤醒国人，如</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span><span lang=EN-US style='mso-bidi-font-size:9.0pt'>“</span><span
+style='mso-bidi-font-size:9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>师夷长技以制</span><span
+style='mso-bidi-font-size:9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>夷</span><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>”</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span><span lang=EN-US style='mso-bidi-font-size:9.0pt'>“</span><span
+style='mso-bidi-font-size:9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>量中华之物力，结与国之欢心</span><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>”</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>与西方</span></span><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>“</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>商战</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>”</span><span style='mso-bidi-font-size:9.0pt;font-family:
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>的主张</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span><span lang=EN-US style='mso-bidi-font-size:9.0pt;
+color:red'>“</span><span style='mso-bidi-font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>振兴中华</span><span lang=EN-US style='mso-bidi-font-size:9.0pt'>”</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>16</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代以来列强没能实现瓜分中国的图谋，原因在于</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、列强不想瓜分中国</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、列强之间的矛盾和相互制约</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、中华民族不屈不挠的反侵略斗争</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、清政府的顽强反抗</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>B, C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>17</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>第一次鸦片战争后签定的不平等条约有</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《<span style='color:red'>南京条约》</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>B</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、《望厦条约》</span><span lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《北京条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>《黄埔条约》</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>18</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>割占我国领土的不平等条约</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>有</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>(&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>A</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>中英《南京条约》</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>B</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>中英《北京条约》</span></span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>C</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、<span style='color:red'>中日《马关条约》</span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt'>D</span><span style='mso-bidi-font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、《辛丑条约》</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>19</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>在</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif";color:red'>19</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;
+color:red'>世纪末帝国主义列强对中国的侵略和瓜分达到了高潮，其中</span><span lang=EN-US style='font-family:
+"Verdana","sans-serif";color:red'>(&nbsp;&nbsp;&nbsp; )</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>A</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、德国将山东划入自己的势力范围</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>B</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、法国将云南和两广划入自己的势力范围</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>C</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、英国将长江流域划入自己的势力范围</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US
+style='mso-bidi-font-size:9.0pt;color:red'>D</span><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>、日本将福建划入自己的势力范围</span><span lang=EN-US
+style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'>A, B, C, D</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-char-indent-size:10.5pt'><b><span
+style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>三、判断题</span></b><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>1</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana;color:red'>中国的工人阶级是先于中国的资产阶级而产生的。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>2</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国人民的斗争，主要是以发展经济，实现国家富强为出发点的。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>3</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>在甲午战争后，宣传</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>“</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>物竞天择</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>、</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>“</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>适者生存</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>社会进化论思想的是郑观应撰写的《盛世危言》。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>4</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span lang=EN-US style='font-family:"Verdana","sans-serif"'>19</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>世纪</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>40</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>年代后，资本</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>—</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>帝国主义打开中国大门的主要目的是向中国输送资本主义的生产方式。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>5</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>帝国主义列强对中国的侵略和瓜分达到高潮是在甲午战争后。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>6</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>孙中山在《救亡决论》中提出</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>“</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>救亡</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>的口号。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>7</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>王韬在其著作《盛世危言》中主张与西方国家</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>“</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>商战</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>8</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>严复提出了</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>“</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>振兴中华</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>的口号。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>9</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国反侵略战争的失败主要由于社会制度的腐败和经济技术的落后。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>10</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>三元里人民抗英斗争是中国近代史上中华人民第一次大规模反侵略武装斗争。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>11</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>只有通过革命获得民族独立、人民解放以后，中国人民才可能集中力量进行现代化建设，实现国家富强、人民富裕。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>12</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国诞生的新的被压迫阶级是工人阶级。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span style='mso-bidi-font-size:9.0pt;
+color:red'> <span lang=EN-US>√</span></span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>13</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国的主要社会矛盾是农民阶级与地主阶级的矛盾，工人阶级与资产阶级的矛盾。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>14</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国的半封建化主要指中国丧失了部分主权。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>15</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>近代中国的半殖民地化主要指中国的自然经济遭到破坏，被纳入了世界资本主义经济体系。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span><span lang=EN-US><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:17.9pt;text-indent:-17.9pt;mso-char-indent-count:
+-1.7;mso-char-indent-size:10.5pt'><b><span lang=EN-US>16</span></b><b><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、</span></b><span style='font-family:宋体;mso-ascii-font-family:
+Verdana;mso-hansi-font-family:Verdana'>林则徐提出</span><span lang=EN-US
+style='font-family:"Verdana","sans-serif"'>“</span><span style='font-family:
+宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>师夷长技以制夷</span><span
+lang=EN-US style='font-family:"Verdana","sans-serif"'>”</span><span
+style='font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana'>的口号。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='mso-bidi-font-size:
+9.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>答案：</span><span lang=EN-US style='mso-bidi-font-size:
+9.0pt;color:red'> ×</span></p>
+
+</div>
+
+</body>
+
+</html>
