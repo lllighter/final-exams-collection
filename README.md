@@ -2,6 +2,8 @@
 
 合集地址 https://github.com/lllighter/final-exams-collection
 
+![img](https://www.pic.lllighter.com/i/2024/01/10/659df24008d11.jpg)
+
 **注：本 repo 中的某些资料（试卷）中的答案不一定正确，请各位同学在复习的时候仔细辨别！！！**
 
 **注：本 repo 中的某些资料（试卷）中的答案不一定正确，请各位同学在复习的时候仔细辨别！！！**
